@@ -7,4 +7,3 @@ module/VideoPlayer/lib/linux/SDL2
 bin64/VideoPlayer
 .vs
 
-bin64/VideoPlayer.pdb
