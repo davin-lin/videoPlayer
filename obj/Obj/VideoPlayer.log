@@ -1,0 +1,41 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 5.15.2
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11”
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11”
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11”
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11”
+  DragAbleWidget.cpp
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11”
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11”
+  MainWindow.cpp
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 module\DragAbleWidget\DragAbleWidget.cpp)
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(37,5): error C2065: “mLocation”: 未声明的标识符
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(117,13): error C2065: “dragPosition”: 未声明的标识符
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(134,22): error C2601: “DragAbleWidget::mouseMoveEvent”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(242,22): error C2601: “DragAbleWidget::checkCursorDirect”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(290,22): error C2601: “DragAbleWidget::doShowFullScreen”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(311,22): error C2601: “DragAbleWidget::doShowNormal”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(340,22): error C2601: “DragAbleWidget::showBorderRadius”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(415,22): error C2601: “DragAbleWidget::doChangeFullScreen”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(430,22): error C2601: “DragAbleWidget::on_btnMenu_Close_clicked”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(445,22): error C2601: “DragAbleWidget::on_btnMenu_Max_clicked”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(450,22): error C2601: “DragAbleWidget::on_btnMenu_Min_clicked”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(469,22): error C2601: “DragAbleWidget::slotTimerTimeOut”: 本地函数定义是非法的
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): message : 此行有一个“{”没有匹配项
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.cpp(91): fatal error C1075: “{”: 未找到匹配令牌
+D:\vsdaima\VideoPlayer-rewrite\module\VideoPlayer\lib\win\ffmpeg\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\MainWindow.cpp)
+D:\vsdaima\VideoPlayer-rewrite\module\DragAbleWidget\DragAbleWidget.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\MainWindow.cpp)
+D:\vsdaima\VideoPlayer-rewrite\src\Widget\customComboBox.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\MainWindow.cpp)
+D:\vsdaima\VideoPlayer-rewrite\src\MainWindow.cpp(437,13): warning C4189: “ret”: 局部变量已初始化但不引用
+D:\vsdaima\VideoPlayer-rewrite\src\MainWindow.cpp(650,104): warning C4100: “hasAudio”: 未引用的形参
+D:\vsdaima\VideoPlayer-rewrite\src\MainWindow.cpp(708,42): warning C4100: “event”: 未引用的形参
